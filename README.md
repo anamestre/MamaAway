@@ -1,6 +1,9 @@
 # MamaAway
-Project for HackUPC 2016, Fall Edition: https://devpost.com/software/mamaaway
-In collaboration with Gorka Piñol (@heyslide), Toni Arellano (@pezmosca) and Cristian Ferrer (@yonimevicio) 
+### Project for HackUPC 2016, Fall Edition
+
+Devpost: https://devpost.com/software/mamaaway
+
+Created with Gorka Piñol (@heyslide), Toni Arellano (@pezmosca) and Cristian Ferrer (@yonimevicio) 
 
 MamaAway is an Android app that lets its users organise their lives and coordinate easily with the people they live with; its target is students who left their homes for college, but it's not the only group which may find it useful. MamaAway is divided in two main sections:
 
